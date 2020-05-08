@@ -1,0 +1,2 @@
+#define GSL_MAJOR_VERSION 2
+#define GSL_MINOR_VERSION 6
